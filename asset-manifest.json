@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/BhavdeepR/static/css/main.6931951e.css",
-    "main.js": "/BhavdeepR/static/js/main.e0ce6490.js",
-    "static/media/heroImage.png": "/BhavdeepR/static/media/heroImage.f26484b6327a51097368.png",
-    "index.html": "/BhavdeepR/index.html",
-    "main.6931951e.css.map": "/BhavdeepR/static/css/main.6931951e.css.map",
-    "main.e0ce6490.js.map": "/BhavdeepR/static/js/main.e0ce6490.js.map"
+    "main.css": "/portfolio/static/css/main.6931951e.css",
+    "main.js": "/portfolio/static/js/main.b07e0930.js",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.f26484b6327a51097368.png",
+    "index.html": "/portfolio/index.html",
+    "main.6931951e.css.map": "/portfolio/static/css/main.6931951e.css.map",
+    "main.b07e0930.js.map": "/portfolio/static/js/main.b07e0930.js.map"
   },
   "entrypoints": [
     "static/css/main.6931951e.css",
-    "static/js/main.e0ce6490.js"
+    "static/js/main.b07e0930.js"
   ]
 }

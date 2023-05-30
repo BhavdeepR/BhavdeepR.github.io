@@ -10,12 +10,21 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. At error autem, repellendus labore ad voluptas reiciendis vero aperiam fuga animi adipisci sint fugiat modi id saepe laudantium tempora, excepturi consectetur quaerat! Unde autem enim porro? Iusto quibusdam doloribus ipsum, nesciunt necessitatibus cumque, dolores nisi labore tempore fugiat accusantium iure fuga.
+                I am Junior year student studying at San Jose State University.
+                I have taken core CS classes such Data Structures and Algorithms and
+                Object Oriented Programming. I have also sharpened my problem-solving ability 
+                through rigorous coursework in Physics and Mathematics.
+
+
             </p>
 
             <br />
             <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, impedit, aspernatur maiores possimus molestiae autem labore quisquam quaerat dolores adipisci numquam! Quidem deleniti illum at aperiam culpa praesentium expedita fuga tempore ad explicabo? At, iusto. Voluptates placeat, nihil voluptatibus ratione corporis esse odit similique suscipit pariatur doloremque ab, in provident!
+                Additionally I have expanded my skillset through projects outside of class.
+                As a full stack developer, I have extensive experience and proficiency in
+                MongoDB, Node.js, JavaScript, React, and Tailwind CSS. With my skillset,
+                I possess the versatility to handle both frontend and backend development
+                tasks.
             </p>
         </div>
     </div>

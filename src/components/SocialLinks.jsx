@@ -2,6 +2,7 @@ import React from 'react';
 import {FaGithub, FaLinkedin} from 'react-icons/fa';
 import {HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from "react-icons/bs"
+import Bhavdeeps_Resume from '../assets/portfolio/Bhavdeeps_Resume.pdf'
 
 const SocialLinks = () => {
 
@@ -13,7 +14,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/bhavdeep-randhawa-232867264/',
             style: 'rounded-tr-md'
         },
         {
@@ -41,7 +42,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: Bhavdeeps_Resume,
             style: 'rounded-br-md',
             download: true
         },
